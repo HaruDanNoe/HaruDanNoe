@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HaruDanNoe
-- 👀 I’m interested in wedsite design
+- 👀 I’m interested in website design
 - 🌱 I’m currently learning web dev and database
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
